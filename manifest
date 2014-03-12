@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: androidgeofence
+moduleid: com.adampash.androidgeofence
+guid: 483912a8-ee0d-46ae-b473-b5375d221639
+platform: android
+minsdk: 3.2.2.GA
